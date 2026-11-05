@@ -25,7 +25,6 @@ from mlops.monitoring import (
 )
 from mlops.train import train_candidate
 
-
 # ---------- training ----------
 
 
